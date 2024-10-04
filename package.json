@@ -1,0 +1,13 @@
+{
+  "name": "escola-virtual",
+  "version": "1.0.0",
+  "description": "Atividade PWEB-2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "install-deps": "npm install"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
